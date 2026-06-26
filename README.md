@@ -27,6 +27,8 @@ Como recurso multimedia utiliza audio de videojuego arcade el cual responde a la
 2. Arte cinético
 Es un sistema basado en estados y comportamientos.
 
+*Durante el desarrollo del proyecto se tomaron decisiones relacionadas con la estructura del sistema incluyendo nuevas herramientas, optando por un modelo basado en estados para organizar la interacción o en arreglos para organizar los elementos y dinamismos que forman parte del sistema. Personalmente una de las principales dificultades fueron la integración de sonido debido a que por más cambios que realizaba no lograba entender por que el audio no se activaba, pero tras volver a los ejercicios vistos en clases logre darme cuenta del error en la estructura del sistema y corregirlo.*
+
 <img width="502" height="540" alt="Captura de pantalla 2026-06-26 013017" src="https://github.com/user-attachments/assets/fbf80675-ff9f-46f4-8e75-0cea381eca9b" />
 <img width="557" height="565" alt="Captura de pantalla 2026-06-26 013109" src="https://github.com/user-attachments/assets/a76a47be-873e-4c3a-885c-2bebcdb4df52" />
 <img width="753" height="701" alt="Captura de pantalla 2026-06-26 013100" src="https://github.com/user-attachments/assets/c33054ea-f99f-4bcf-b4c8-830c4d96db25" />
