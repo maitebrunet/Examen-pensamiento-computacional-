@@ -1,6 +1,9 @@
 # Examen-pensamiento-computacional-
 <img width="702" height="700" alt="Captura de pantalla 2026-06-26 013517" src="https://github.com/user-attachments/assets/e78abbff-de6b-4d8c-9e14-fa6081b4db49" />
-[](https://editor.p5js.org/maite0307/full/2EY3J2muJ)](https://editor.p5js.org/maite0307/full/2EY3J2muJ)
+
+LINK EDITABLE: [](https://editor.p5js.org/maite0307/full/2EY3J2muJ)](https://editor.p5js.org/maite0307/full/2EY3J2muJ)
+
+LINK EJECUTABLE: https://maitebrunet.github.io/Examen-pensamiento-computacional-/
 
 **sistema visual generativo**
 
