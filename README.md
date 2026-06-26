@@ -1,8 +1,11 @@
 # Examen-pensamiento-computacional-
 <img width="702" height="700" alt="Captura de pantalla 2026-06-26 013517" src="https://github.com/user-attachments/assets/e78abbff-de6b-4d8c-9e14-fa6081b4db49" />
 [](https://editor.p5js.org/maite0307/full/2EY3J2muJ)](https://editor.p5js.org/maite0307/full/2EY3J2muJ)
+
 **sistema visual generativo**
+
 **AUTOR/A**: Maite Brunet
+
 **¿DE QUÉ TRATA EL PROYECTO?**
 Este proyecto es un sistema generativo que tiene como fin generar una experiencia visual y sonora basada en estados, el cual responde al usuario mediante la interacción con teclado y mouse, interacción que va evolucionando automáticamente con el tiempo. 
 
