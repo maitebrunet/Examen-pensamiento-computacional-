@@ -7,18 +7,22 @@
 **AUTOR/A**: Maite Brunet
 
 **¿DE QUÉ TRATA EL PROYECTO?**
+
 Este proyecto es un sistema generativo que tiene como fin generar una experiencia visual y sonora basada en estados, el cual responde al usuario mediante la interacción con teclado y mouse, interacción que va evolucionando automáticamente con el tiempo. 
 
 **¿QUÉ SE VE EN PANTALLA?**
+
 Dentro del sistema podemos visualizar una grilla de módulos geométricos animados que cambian de tamaño, color y comportamiento. 
 
-**¿QUÉ ELEMENTOS VISUALES APARECEM?**
+**¿QUÉ ELEMENTOS VISUALES APARECEN?**
+
 Se encuentran presentes una cuadrícula generativa, figuras geométricas, colores dinámicos, llamativos y texto informativo. Además podemos ver inputs y outputs como reproducción de sonido, animación visual dinámica, uso de mouse, teclado y tiempo. La idea central fue explorar el cómo un sistema digital puede comportarse a causa de estados y variaciones. Para esto utilice de referentes el arte generativo y el arte cinético
 
 Los datos ingresan al sistema mediante mouse, teclado y tiempo establecido; los cuáles son procesados mediante funciones matemáticas como map(), y sin(), mostrando transformaciones visuales. El sistema responde cambiando colores, animaciones y sonido, creando así una experiencia única interactiva evolutiva para el usuario. 
 Como recurso multimedia utiliza audio de videojuego arcade el cual responde a la interacción del usuario, cambiando su volumen según la posición del mouse y parando al finalizar el sistema. 
 
 **REFERENTES DE DISEÑO**
+
 1. Arte generativo
 2. Arte cinético
 Es un sistema basado en estados y comportamientos.
